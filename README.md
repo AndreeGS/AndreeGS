@@ -2,6 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
+    <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <div  align="center"> 
