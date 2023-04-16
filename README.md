@@ -1,8 +1,8 @@
 ### Olá, André aqui! 👋
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
-    <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
+    <img align="right" height="140em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <div  align="center"> 
