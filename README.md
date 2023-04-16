@@ -1,7 +1,7 @@
 ### Olá, André aqui! 👋
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
     <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
