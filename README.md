@@ -1,21 +1,42 @@
-### Olá, André aqui! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-<div>
-  <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=AndreeGs&show_icons=true&theme=radical" />
-  <img align="right" height="140em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&langs_count=16&theme=great-gatsby"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b13583&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+André+Guilherme;Tenho+22+anos;Sou+de+Minas+Gerais;Sou+um+estudante+de+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreeGS&bg_color=0d1117&color=40E0D0&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreeGS&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeGS&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Estudando:</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" height="30" width="40" alt="c#-icon"src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
-   </div>
-   
-   
-</div>
+
+ ### Minhas skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+
+
+### Estudando:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+
+
 
 ![Snake animation](https://github.com/AndreeGS/AndreeGS/blob/output/github-contribution-grid-snake.svg)
+ 
+<div align="center"> 
+<h2>Entre em contato :)</h2>
+<a href = "mailto:andre.guilherme2009@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href=www.linkedin.com/in/andregsol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreeGS}/count.svg" /></p> 
+  <br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
