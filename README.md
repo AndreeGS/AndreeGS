@@ -26,8 +26,8 @@
 
 
 
-![Snake animation](https://github.com/AndreeGS/AndreeGS/blob/output/github-contribution-grid-snake.svg)
- 
+![snake gif](https://github.com/AndreeGS/AndreeGS/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center"> 
 <h2>Entre em contato :)</h2>
 <a href = "mailto:andre.guilherme2009@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
