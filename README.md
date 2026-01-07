@@ -4,7 +4,7 @@
 
 # 👋 Olá! Eu sou o André
 
-Sou **Desenvolvedor Júnior**, tenho **24 anos**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou **cursando Mestrado em Engenharia de Software**.
+Sou **Desenvolvedor**, tenho **24 anos**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou **cursando Mestrado em Engenharia de Software**.
 
 Atuo principalmente no desenvolvimento **backend**, com foco em engenharia de software, arquitetura de sistemas e boas práticas de desenvolvimento. Busco compreender o domínio do problema antes da implementação, priorizando soluções bem estruturadas, escaláveis e de fácil manutenção.
 
@@ -14,7 +14,10 @@ Atuo principalmente no desenvolvimento **backend**, com foco em engenharia de so
 
 - **Linguagens principais:** PHP, Go  
 - **Experiência prática:** Java, C#, TypeScript  
-- **Estudando atualmente:** Rust  
+- **Estudando atualmente:** Rust
+- Docker
+- RabbitMQ
+- Linux 🐧  
 
 ---
 
@@ -29,13 +32,6 @@ Tenho **prática com a aplicação de conceitos de engenharia de software**, inc
 - Clean Code  
 
 Aplico esses princípios no dia a dia para criar código legível, testável e sustentável, sempre pensando na manutenibilidade e evolução do sistema ao longo do tempo.
-
----
-
-## 🛠️ Ferramentas & Ambiente
-
-- Docker para padronização de ambientes e deploy  
-- Linux como sistema principal de desenvolvimento 🐧  
 
 ---
 
