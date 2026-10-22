@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou o André
 
-### Backend Developer | Go & PHP | Software Architecture
+### Backend Developer | Java & Go & PHP | Software Architecture
 
 </div>
 
@@ -16,7 +16,7 @@
 
 Sou **Backend Developer**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Mestrado em Engenharia de Software**.
 
-Atuo no desenvolvimento de sistemas backend utilizando principalmente **Go e PHP**, com foco em **arquitetura de software, qualidade de código, testes e manutenibilidade**.
+Atuo no desenvolvimento de sistemas backend utilizando principalmente **Java, Go e PHP**, com foco em **arquitetura de software, qualidade de código, testes e manutenibilidade**.
 
 Tenho interesse em **Clean Architecture, Hexagonal Architecture, DDD, SOLID, Design Patterns e System Design**, buscando entender não apenas como implementar uma solução, mas também como projetar sistemas que possam evoluir de forma sustentável.
 
